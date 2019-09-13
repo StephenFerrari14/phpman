@@ -1,0 +1,19 @@
+{
+  "name": "phpman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "php/manual.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stephen.ferrari14@gmail.com",
+  "license": "ISC",
+  "engines": {
+    "node": "10.6.0"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "htmlparser": "^1.7.7",
+    "request": "^2.88.0"
+  }
+}
